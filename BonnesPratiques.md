@@ -141,5 +141,8 @@ Successfully added user: {
 }
 ```
 ```
+quit()
+```
+```
 mongo --username zakaria --password --authenticationDatabase stock_db --authenticationMechanism SCRAM-SHA-256
 ```
